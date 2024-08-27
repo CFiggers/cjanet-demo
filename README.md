@@ -14,7 +14,7 @@ or
  $ jpm install spork --local
 ```
 
-Transpile this file to C with the following shell command:
+Transpile the `hello-cjanet.janet` file to C with the following shell command:
 
 ```console
 $ janet hello-cjanet.janet > hello.c
