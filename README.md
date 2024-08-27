@@ -1,6 +1,6 @@
 # A demo of spork/cjanet
 
-This is an _extremely_ simple "Hello, world" demonstrating the most basic possible use of [janet-lang/spork's cjanet module](https://github.com/janet-lang/spork/cjanet). CJanet is a DSL written in Janet that compiles to C.
+This is an _extremely_ simple "Hello, world" demonstrating the most basic possible use of [janet-lang/spork's cjanet module](https://github.com/janet-lang/spork/blob/1c081c7f819a81fad1c2d2ee0dfcb0ac8fa71df0/spork/cjanet.janet). CJanet is a DSL written in Janet that compiles to C.
 
 ## Usage instructions
 
